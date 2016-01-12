@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  BlinkingLabel: 80a11a6b30e6f32c5b8e1596a087c313430efe4f
+  BlinkingLabel: 56329044e4921abb5d8dcf87b7b743fe53a53550
 
 COCOAPODS: 0.39.0
